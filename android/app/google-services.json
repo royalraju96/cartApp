@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "367449997337",
+    "firebase_url": "https://diagnostic-center-8c822.firebaseio.com",
+    "project_id": "diagnostic-center-8c822",
+    "storage_bucket": "diagnostic-center-8c822.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367449997337:android:778116a74da209adcdaa88",
+        "android_client_info": {
+          "package_name": "com.mindcom.diagnosticenter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367449997337-dvbu1sh9fcq3ccibevhqhhlk2g4tp7co.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEIOd2O_hwABaZTkF-lhXoC3EX49NXjDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367449997337-dvbu1sh9fcq3ccibevhqhhlk2g4tp7co.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
